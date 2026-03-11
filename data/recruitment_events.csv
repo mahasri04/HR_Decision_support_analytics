@@ -1,0 +1,121 @@
+job_id,job_role,open_date,filled_date,num_offers,offers_accepted,cost_of_recruitment
+JOB1,Manufacturing Director,2023-03-01,2023-04-11,6,0,3362
+JOB2,Healthcare Representative,2023-08-28,2023-10-02,1,1,2244
+JOB3,Manager,2023-09-12,2023-09-23,1,0,2141
+JOB4,Sales Executive,2023-07-07,2023-08-31,4,1,7878
+JOB5,Research Director,2023-02-25,2023-04-01,4,1,8759
+JOB6,Sales Representative,2023-01-12,2023-03-18,4,1,3596
+JOB7,Sales Executive,2023-03-01,2023-03-14,2,1,3605
+JOB8,Manufacturing Director,2023-07-25,2023-09-26,5,1,5940
+JOB9,Manufacturing Director,2023-10-27,2023-12-16,4,1,7505
+JOB10,Human Resources,2023-08-31,2023-10-18,6,1,2008
+JOB11,Sales Representative,2023-10-17,2023-11-25,1,1,8608
+JOB12,Research Director,2023-07-01,2023-08-03,5,1,6556
+JOB13,Sales Executive,2023-06-11,2023-06-26,1,1,5021
+JOB14,Sales Representative,2023-06-06,2023-06-26,1,1,7148
+JOB15,Research Director,2023-07-20,2023-08-01,3,1,1684
+JOB16,Research Scientist,2023-04-28,2023-06-19,1,1,2234
+JOB17,Laboratory Technician,2023-01-16,2023-02-15,2,1,8420
+JOB18,Human Resources,2023-08-03,2023-09-29,2,1,7694
+JOB19,Sales Representative,2023-05-31,2023-06-24,1,1,8629
+JOB20,Manufacturing Director,2023-02-14,2023-04-21,1,0,4659
+JOB21,Sales Representative,2023-03-09,2023-05-13,2,1,4900
+JOB22,Laboratory Technician,2023-07-18,2023-08-28,1,1,7520
+JOB23,Laboratory Technician,2023-10-01,2023-11-26,6,1,3529
+JOB24,Manager,2023-08-11,2023-10-15,2,0,1925
+JOB25,Manager,2023-10-13,2023-12-11,1,0,4131
+JOB26,Healthcare Representative,2023-02-10,2023-04-05,6,1,7780
+JOB27,Manufacturing Director,2023-08-17,2023-09-28,4,0,3525
+JOB28,Human Resources,2023-01-09,2023-03-07,3,1,3088
+JOB29,Sales Executive,2023-08-13,2023-08-31,4,1,3221
+JOB30,Manufacturing Director,2023-01-13,2023-02-05,6,0,2018
+JOB31,Sales Executive,2023-02-12,2023-04-06,2,0,7232
+JOB32,Healthcare Representative,2023-02-20,2023-03-31,6,1,8352
+JOB33,Sales Representative,2023-04-05,2023-05-15,5,1,5017
+JOB34,Healthcare Representative,2023-01-26,2023-02-23,6,1,8383
+JOB35,Healthcare Representative,2023-06-17,2023-08-18,2,1,6579
+JOB36,Research Scientist,2023-01-02,2023-03-08,3,1,3605
+JOB37,Sales Representative,2023-09-01,2023-09-16,4,1,7180
+JOB38,Sales Executive,2023-04-22,2023-06-22,1,0,5469
+JOB39,Human Resources,2023-04-07,2023-05-04,6,1,2857
+JOB40,Sales Representative,2023-02-18,2023-03-12,6,1,7489
+JOB41,Research Director,2023-03-01,2023-05-10,1,0,5129
+JOB42,Sales Representative,2023-01-06,2023-03-02,4,0,8888
+JOB43,Sales Executive,2023-10-10,2023-12-17,2,0,2773
+JOB44,Laboratory Technician,2023-07-14,2023-09-10,6,0,4884
+JOB45,Laboratory Technician,2023-10-08,2023-11-11,5,1,5938
+JOB46,Research Scientist,2023-09-07,2023-11-06,2,1,3061
+JOB47,Research Director,2023-06-27,2023-08-27,6,1,6711
+JOB48,Healthcare Representative,2023-07-09,2023-08-02,4,1,6878
+JOB49,Human Resources,2023-08-21,2023-09-09,3,1,7459
+JOB50,Sales Representative,2023-05-15,2023-07-07,6,1,5933
+JOB51,Sales Representative,2023-05-06,2023-05-19,5,1,4134
+JOB52,Research Scientist,2023-03-06,2023-04-29,2,1,3861
+JOB53,Healthcare Representative,2023-08-12,2023-08-29,6,0,3885
+JOB54,Laboratory Technician,2023-09-27,2023-11-21,4,0,8396
+JOB55,Human Resources,2023-03-01,2023-04-30,3,0,3168
+JOB56,Laboratory Technician,2023-01-13,2023-03-10,1,0,8496
+JOB57,Sales Executive,2023-10-18,2023-11-21,3,1,3320
+JOB58,Sales Executive,2023-08-11,2023-09-20,2,1,3780
+JOB59,Healthcare Representative,2023-09-10,2023-11-13,4,1,7466
+JOB60,Healthcare Representative,2023-04-05,2023-06-07,3,1,6761
+JOB61,Healthcare Representative,2023-04-03,2023-05-10,6,1,2019
+JOB62,Manufacturing Director,2023-06-22,2023-08-26,3,1,5281
+JOB63,Healthcare Representative,2023-05-25,2023-06-30,4,1,3409
+JOB64,Research Director,2023-02-07,2023-04-11,1,0,5255
+JOB65,Research Scientist,2023-06-24,2023-07-16,2,0,4888
+JOB66,Research Director,2023-06-09,2023-08-08,5,0,2581
+JOB67,Laboratory Technician,2023-04-19,2023-05-23,4,1,2743
+JOB68,Manager,2023-04-21,2023-05-22,4,1,2412
+JOB69,Research Scientist,2023-01-09,2023-02-25,4,0,3466
+JOB70,Laboratory Technician,2023-08-27,2023-11-03,2,1,2923
+JOB71,Manufacturing Director,2023-05-26,2023-06-21,2,0,2774
+JOB72,Laboratory Technician,2023-08-15,2023-10-22,6,0,7609
+JOB73,Research Scientist,2023-07-27,2023-09-20,1,1,8289
+JOB74,Research Director,2023-01-09,2023-02-23,5,1,5930
+JOB75,Sales Representative,2023-08-21,2023-09-21,4,1,8923
+JOB76,Sales Executive,2023-01-03,2023-02-18,6,1,8931
+JOB77,Human Resources,2023-09-23,2023-11-19,6,1,8888
+JOB78,Healthcare Representative,2023-08-02,2023-08-17,2,0,6762
+JOB79,Manufacturing Director,2023-08-16,2023-08-29,4,0,5902
+JOB80,Healthcare Representative,2023-10-11,2023-12-03,3,1,1687
+JOB81,Sales Representative,2023-07-01,2023-08-25,4,1,8595
+JOB82,Sales Representative,2023-05-29,2023-07-18,5,0,5761
+JOB83,Research Scientist,2023-03-28,2023-05-10,2,1,6066
+JOB84,Manager,2023-05-28,2023-08-05,6,0,4623
+JOB85,Healthcare Representative,2023-01-24,2023-02-06,3,1,3397
+JOB86,Healthcare Representative,2023-08-28,2023-11-01,4,0,4874
+JOB87,Research Scientist,2023-09-25,2023-11-21,1,1,6063
+JOB88,Human Resources,2023-08-01,2023-08-31,6,0,2866
+JOB89,Manufacturing Director,2023-02-02,2023-02-21,3,1,2034
+JOB90,Healthcare Representative,2023-09-12,2023-10-26,3,1,8274
+JOB91,Healthcare Representative,2023-08-05,2023-09-27,6,0,2502
+JOB92,Human Resources,2023-08-09,2023-10-10,2,1,3481
+JOB93,Human Resources,2023-09-15,2023-10-20,5,1,3720
+JOB94,Manufacturing Director,2023-01-31,2023-03-13,3,1,4447
+JOB95,Research Director,2023-03-10,2023-05-07,5,0,5606
+JOB96,Human Resources,2023-07-14,2023-09-04,3,1,1762
+JOB97,Laboratory Technician,2023-08-07,2023-10-16,2,1,2676
+JOB98,Manager,2023-06-15,2023-06-27,5,1,8029
+JOB99,Manufacturing Director,2023-05-20,2023-07-06,2,1,5577
+JOB100,Laboratory Technician,2023-05-05,2023-05-27,1,0,8775
+JOB101,Sales Representative,2023-09-13,2023-10-06,2,1,7344
+JOB102,Manager,2023-05-02,2023-06-12,1,0,7876
+JOB103,Laboratory Technician,2023-10-21,2023-11-10,2,1,8848
+JOB104,Manager,2023-10-08,2023-12-14,5,1,6844
+JOB105,Sales Executive,2023-04-14,2023-04-30,5,0,7665
+JOB106,Research Scientist,2023-08-30,2023-10-03,5,0,3538
+JOB107,Manufacturing Director,2023-04-26,2023-05-07,5,1,3526
+JOB108,Healthcare Representative,2023-07-27,2023-09-22,1,0,2062
+JOB109,Manager,2023-03-20,2023-05-19,3,0,3797
+JOB110,Research Scientist,2023-05-22,2023-06-20,1,1,6245
+JOB111,Human Resources,2023-05-11,2023-06-23,1,0,3906
+JOB112,Manufacturing Director,2023-07-13,2023-08-21,1,1,4174
+JOB113,Laboratory Technician,2023-10-14,2023-12-19,3,1,4149
+JOB114,Sales Executive,2023-05-22,2023-07-09,3,1,4048
+JOB115,Human Resources,2023-07-19,2023-09-14,1,1,6629
+JOB116,Human Resources,2023-09-15,2023-11-03,5,1,5702
+JOB117,Sales Executive,2023-07-21,2023-08-08,5,1,4811
+JOB118,Manager,2023-07-26,2023-09-09,5,1,8132
+JOB119,Research Director,2023-10-25,2023-11-22,3,0,3147
+JOB120,Manager,2023-05-27,2023-06-28,3,1,2815
